@@ -59,4 +59,4 @@ Here is the evaluation of K-Means clustering with Inertia and Silhouette Score:
 
 Below is the bar plot showing the average transactions per customer segment:
 
-![Average Transactions per Cluster](cluster_visualizations.png)))
+![Average Transactions per Cluster](avg_transactions_per_cluster.png)))

@@ -11,6 +11,8 @@ The dataset consists of the following tables:
 
 ## Project Structure
 
+├── Customer-Segmentation-Project/ ├── README.md # Project overview and description ├── data/ │ └── E-commerce_data.xlsx # Dataset ├── notebooks/ │ └── customer_segmentation.ipynb # Jupyter notebook with code ├── visualizations/ │ └── cluster_visualizations.png # Visualizations of clustering results └── requirements.txt # List of dependencies
+
 
 ## Approach
 The project involves the following steps:
@@ -31,3 +33,15 @@ To run this project, clone the repository and install the required dependencies:
 git clone https://github.com/your-username/Customer-Segmentation-Project.git
 cd Customer-Segmentation-Project
 pip install -r requirements.txt
+```
+
+## Open the Jupyter notebook and run the analysis:
+```bash
+jupyter notebook notebooks/customer_segmentation.ipynb
+```
+
+## Dependencies
+1. **pandas**
+2. **scikit-learn**
+3. **matplotlib**
+4. **seaborn**

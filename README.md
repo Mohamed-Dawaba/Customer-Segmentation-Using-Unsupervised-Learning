@@ -45,3 +45,18 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 2. **scikit-learn**
 3. **matplotlib**
 4. **seaborn**
+
+
+## Visualizations
+
+### 1. Clustering Evaluation
+
+Here is the evaluation of K-Means clustering with Inertia and Silhouette Score:
+
+![Clustering Evaluation](clustering_evaluation.png)
+
+### 2. Average Transactions per Cluster
+
+Below is the bar plot showing the average transactions per customer segment:
+
+![Average Transactions per Cluster](cluster_visualizations.png)))
